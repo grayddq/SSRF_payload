@@ -22,7 +22,7 @@ class ssrf_payload:
         en = ""
         for i in ip:
             if i.isdigit():
-                en += "%3{}".format(i)
+                en += "%3{0}".format(i)
             elif i == ".":
                 en += "%2E"
             elif i == ":":
