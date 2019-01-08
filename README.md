@@ -41,5 +41,5 @@
 
 ## Screenshot ##
 
-![Screenshot](pic/111.png)
+![Screenshot](111.png)
 
